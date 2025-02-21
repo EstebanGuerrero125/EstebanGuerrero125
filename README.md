@@ -19,7 +19,7 @@ Soy Estudiante de Tecnología en Sistematización de Datos - Universidad Distrit
 
 
 ## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/EstebanGuerrero125/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-esteban-guerrero125)
 
 ![Visitas](https://komarev.com/ghpvc/?username=EstebanGuerrero125&label=Visitas&color=blue&style=flat)
 
