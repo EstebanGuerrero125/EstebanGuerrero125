@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy David Esteban Guerrero  
 
 ## 🚀 Sobre mí
-Soy Estudiante de Tecnología en Sistematización de Datos - Universidad Distrital Francisco José de Caldas.
+Soy tecnólogo en sistematización de datos y estudiante de ingeniería telemática  - Universidad Distrital Francisco José de Caldas.
 
 ## 🔧 Tecnologías y Herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
