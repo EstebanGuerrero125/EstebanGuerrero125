@@ -36,9 +36,6 @@ Tecnólogo en Sistematización de Datos y estudiante de Ingeniería Telemática 
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📊 Estadísticas de GitHub
-![Estadísticas de EstebanGuerrero125](https://github-readme-stats.vercel.app/api?username=EstebanGuerrero125&show_icons=true&theme=default&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanGuerrero125&layout=compact&theme=default)
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-esteban-guerrero125)
