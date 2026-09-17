@@ -1,16 +1,13 @@
 # 👋 ¡Hola! Soy David Esteban Guerrero
 
 ## 🚀 Sobre mí
-Tecnólogo en Sistematización de Datos y estudiante de Ingeniería Telemática (8vo semestre) en la Universidad Distrital Francisco José de Caldas. Más de un año de experiencia construyendo pipelines ETL, dashboards y automatizaciones con Python y Power BI en entornos de manufactura y servicio al cliente. Actualmente ampliando mi perfil hacia desarrollo de software y ML, con interés particular en producto/fintech y pagos.
+Tecnólogo en Sistematización de Datos y estudiante de Ingeniería Telemática en la Universidad Distrital Francisco José de Caldas. Más de un año de experiencia construyendo pipelines ETL, dashboards y automatizaciones con Python y Power BI. Actualmente ampliando mi perfil hacia desarrollo de software y ML, con interés particular en producto/fintech y pagos.
 
 - 🔭 Actualmente construyendo un proyecto de deep learning para detección de defectos superficiales en acero
 - 🌱 Aprendiendo Databricks, Docker y buenas prácticas de ingeniería de datos en la nube
 - 💬 Pregúntame sobre Python, SQL, Power BI o automatización de reportes
 - 📫 Contáctame por LinkedIn (link abajo)
 
-## 💼 Experiencia
-- **Analista de Datos y Automatización Jr. — Proalco Bekaert** (ene 2025 – ene 2026): dashboards y reportes de costos, ventas e inventario; automatización de un pipeline ETL en Python/SQL que reemplazó la carga manual de reportes hacia Power BI.
-- **Customer Service Representative — Acima Leasing** (ene 2026 – jul 2026): atención en inglés para clientes en EE. UU.
 
 ## 🔭 Proyectos destacados
 - **Sistema de votación distribuido** — Mi proyecto de portafolio más sólido. Construido con FastAPI, SQLite, Docker Compose y verificación de integridad SHA-256; sustentado como proyecto final de Sistemas Distribuidos.
@@ -39,6 +36,5 @@ Tecnólogo en Sistematización de Datos y estudiante de Ingeniería Telemática 
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-esteban-guerrero125)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EstebanGuerrero125)
 
 ![Visitas](https://komarev.com/ghpvc/?username=EstebanGuerrero125&label=Visitas&color=blue&style=flat)
