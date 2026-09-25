@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy David Esteban Guerrero
 
 ## 🚀 Sobre mí
-Tecnólogo en Sistematización de Datos y estudiante de Ingeniería Telemática en la Universidad Distrital Francisco José de Caldas. Más de un año de experiencia construyendo pipelines ETL, dashboards y automatizaciones con Python y Power BI. Actualmente ampliando mi perfil hacia desarrollo de software y ML, con interés particular en producto/fintech y pagos.
+Tecnólogo en Sistematización de Datos y estudiante de Ingeniería Telemática en la Universidad Distrital Francisco José de Caldas. Más de un año de experiencia construyendo pipelines ETL, dashboards, automatizaciones con Python y Power BI. Actualmente ampliando mi perfil hacia desarrollo de software, ML y DL, con interés particular en producto/fintech y pagos.
 
 - 🔭 Actualmente construyendo un proyecto de deep learning para detección de defectos superficiales en acero
 - 🌱 Aprendiendo Databricks, Docker y buenas prácticas de ingeniería de datos en la nube
