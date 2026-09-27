@@ -37,4 +37,4 @@ Tecnólogo en Sistematización de Datos y estudiante de Ingeniería Telemática 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-esteban-guerrero125)
 
-![Visitas](https://komarev.com/ghpvc/?username=EstebanGuerrero125&label=Visitas&color=blue&style=flat)
+![Visitas](https://komarev.com/ghpvc/?username=EstebanGuerrero12&label=Visitas&color=blue&style=flat)
